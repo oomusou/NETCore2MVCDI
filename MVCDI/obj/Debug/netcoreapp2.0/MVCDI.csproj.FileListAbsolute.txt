@@ -1,0 +1,11 @@
+C:\Users\Dell\Code\dotNETCore\MVCDI\MVCDI\bin\Debug\netcoreapp2.0\MVCDI.deps.json
+C:\Users\Dell\Code\dotNETCore\MVCDI\MVCDI\bin\Debug\netcoreapp2.0\MVCDI.runtimeconfig.json
+C:\Users\Dell\Code\dotNETCore\MVCDI\MVCDI\bin\Debug\netcoreapp2.0\MVCDI.runtimeconfig.dev.json
+C:\Users\Dell\Code\dotNETCore\MVCDI\MVCDI\bin\Debug\netcoreapp2.0\MVCDI.dll
+C:\Users\Dell\Code\dotNETCore\MVCDI\MVCDI\bin\Debug\netcoreapp2.0\MVCDI.pdb
+C:\Users\Dell\Code\dotNETCore\MVCDI\MVCDI\obj\Debug\netcoreapp2.0\MVCDI.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Code\dotNETCore\MVCDI\MVCDI\obj\Debug\netcoreapp2.0\MVCDI.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Code\dotNETCore\MVCDI\MVCDI\obj\Debug\netcoreapp2.0\MVCDI.AssemblyInfoInputs.cache
+C:\Users\Dell\Code\dotNETCore\MVCDI\MVCDI\obj\Debug\netcoreapp2.0\MVCDI.AssemblyInfo.cs
+C:\Users\Dell\Code\dotNETCore\MVCDI\MVCDI\obj\Debug\netcoreapp2.0\MVCDI.dll
+C:\Users\Dell\Code\dotNETCore\MVCDI\MVCDI\obj\Debug\netcoreapp2.0\MVCDI.pdb
